@@ -1,7 +1,1 @@
-require "omniauth/trakt/version"
-
-module Omniauth
-  module Trakt
-    # Your code goes here...
-  end
-end
+require 'omniauth/trakt/version'
