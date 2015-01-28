@@ -12,7 +12,7 @@ module OmniAuth
       }
 
       uid do
-        raw_info['id']
+        access_token.params['uid']
       end
     end
   end
